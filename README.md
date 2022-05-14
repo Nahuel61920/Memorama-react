@@ -4,7 +4,7 @@
 
 Memorama created with react
 
-- **React-card-flip: [React-pdf](https://react-pdf.org/)**
+- **React-card-flip: [React-card-flip](https://www.npmjs.com/package/react-card-flip)**
 
   Install React-card-flip:
 
